@@ -1,0 +1,7 @@
+#board{
+    min-height: 100vh;
+    margin-top: -1.5rem;
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
