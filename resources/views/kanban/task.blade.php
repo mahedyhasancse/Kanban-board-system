@@ -8,7 +8,7 @@
 				<form action="{{route('store.task')}}" method="POST">
 					@csrf
 					<div class="col-md-12 bg-primary p-4 text-white text-center">
-						<h3>Add Board</h3>
+						<h3>Add Task</h3>
 					</div>
 					<hr>
 					<div class="form-group">
@@ -39,7 +39,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<hr>
-						<h4>All Boards</h4>
+						<h4>All Tasks</h4>
 						<hr>
 						<div class="col-md-12 mt-4">
 							<table id="myTable" class="table  text-center table-responsive" cellpadding="8">
