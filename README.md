@@ -47,7 +47,7 @@ After Installation Lets Follow the some Simple Steps:
  <h2>For Online Acccess visit http://kanban.mhmsoftwaresa.com/</h2>
  <p>Register you as user or use below info for the user experience/p>
 <p>Email: test@gmail.com</p>
-<p>123456789</p>
+<p>pass: 123456789</p>
 
 
 Thanks
